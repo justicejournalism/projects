@@ -1,0 +1,33 @@
+/*body {*/
+/*}*/
+.gallery {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+.gallery-cell {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  text-align: center;
+  display: table;
+  background-size: cover;
+  background-position: center center;
+  /*background-attachment: fixed;*/
+}
+.gallery-cell .content-wrapper {
+  display: table-cell;
+  vertical-align: middle;
+}
+.gallery-cell .content {
+  max-width: 900px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+.flickity-prev-next-button {
+  position: fixed;
+}
