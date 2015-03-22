@@ -3,8 +3,9 @@ body {
   color: #fff;
 }
 
-h1 {
-	font-size: 50px;
+.front {
+	text-align:left; 
+	width:50%;
 }
 
 
