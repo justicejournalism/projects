@@ -3,9 +3,10 @@ body {
   color: #fff;
 }
 
-.front {
+.front .content {
 	text-align:left; 
-	width:50%;
+	width: 55%;
+	margin-left: 10%;
 }
 
 .text1 {
@@ -14,6 +15,16 @@ body {
 	text-align:left; 
 	width:55%;
 	padding:5%;
+}
+
+.front h1 {
+	font-family: 'Georgia', serif;
+}
+
+.caption {
+	position: absolute;
+	bottom: 20px;
+	right: 20px;
 }
 
 
