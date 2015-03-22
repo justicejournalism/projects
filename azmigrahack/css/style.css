@@ -62,5 +62,13 @@ body {
   	margin-left: 73%;
 }
 
+.soundcite-loaded {
+  /*border-radius: 6px;
+  padding: 0 5px 0 5px;
+  display: inline-block;
+  cursor: pointer;*/
+  background: rgba(255, 255, 255, 0.25);
+}
+
 
 
