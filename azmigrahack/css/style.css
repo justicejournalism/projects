@@ -9,6 +9,11 @@ body {
 }
 
 .text1 {
-	background-color: rgba(211,211,211, .3)
+	background-color: rgba(230,230,230,.7);
+	color: black;
+	text-align:left; 
+	width:55%;
+	padding:5%;
 }
+
 
