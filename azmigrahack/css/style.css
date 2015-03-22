@@ -36,6 +36,16 @@ body {
 	padding: 5%;
 }
 
+.text4 .content {
+	text-align:left;
+	width: 45%;
+	margin-left: 10%;
+	font-size: 20px;
+	background-color: rgba(230,230,230,.7);
+	color: black;
+	padding: 5%;
+}
+
 .front h1 {
 	font-family: 'Georgia', serif;
 }
